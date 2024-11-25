@@ -49,11 +49,11 @@ ABLE은 **블록을 활용한 직관적인 시각적 인터페이스**를 통해
 
 |                블록 조회                 |                블록 추가                 |
 | :--------------------------------------: | :--------------------------------------: |
-| <img width="400" src="assets/preview/블록 조회.gif"> | <img width="400" src="assets/preview/블록 추가.gif"> |
+| <img width="350" src="assets/preview/블록 조회.gif"> | <img width="350" src="assets/preview/블록 추가.gif"> |
 
 |                블록 연결                 |                블록 삭제                 |
 | :--------------------------------------: | :--------------------------------------: |
-| <img width="400" src="assets/preview/블록 연결.gif"> | <img width="400" src="assets/preview/블록 삭제.gif"> |
+| <img width="350" src="assets/preview/블록 연결.gif"> | <img width="350" src="assets/preview/블록 삭제.gif"> |
 
 </br>
 
@@ -65,7 +65,7 @@ ABLE은 유효성 검증 기능을 통해 **블록 코딩 작업의 안정성을
 
 |                연결성 확인                 |                 순환 생성 방지                 |
 | :----------------------------------------: | :--------------------------------------------: |
-| <img width="400" src="assets/preview/연결성 확인.gif"> | <img width="400" src="assets/preview/순환 생성 방지.gif"> |
+| <img width="350" src="assets/preview/연결성 확인.gif"> | <img width="350" src="assets/preview/순환 생성 방지.gif"> |
 
 </br>
 
@@ -122,11 +122,11 @@ ABLE은 **버튼 클릭만으로 FastAPI 프레임워크 기반의 서버를 실
 
 | 서버 시작 | API 추가 및 목록 조회 |
 | :---: | :---: |
-| <img width="400" src="assets/start-server.gif"> | <img width="400" src="assets/add-search-api.gif"> | 
+| <img width="350" src="assets/start-server.gif"> | <img width="350" src="assets/add-search-api.gif"> | 
 
 | API 테스트 | API 삭제 및 서버 종료 |
 | :---: | :---: |
-| <img width="400" src="assets/test-api.gif"> | <img width="400" src="assets/delete-api.gif">
+| <img width="350" src="assets/test-api.gif"> | <img width="350" src="assets/delete-api.gif">
 </br>
 
 ## ⚒️ 기술 스택
