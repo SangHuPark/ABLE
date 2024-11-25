@@ -37,7 +37,7 @@ ABLE은 **처음 사용하는 사용자에게 편의성을 제공**해주기 위
 
 |            사용자 가이드 조회            |
 | :--------------------------------------: |
-| <img width="1600" src="assets/able_docs.gif"> |
+| <img width="800" src="assets/able_docs.gif"> |
 
 </br>
 
